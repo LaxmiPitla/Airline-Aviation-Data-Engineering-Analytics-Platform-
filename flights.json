@@ -1,0 +1,4002 @@
+[
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Sichuan Airlines",
+        "departure": "TFU",
+        "arrival": "IST",
+        "flight_iata": "3U"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Gridiron Air",
+        "departure": "KIX",
+        "arrival": "NGB",
+        "flight_iata": "GI4116"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "British Airways",
+        "departure": "ICN",
+        "arrival": "DOH",
+        "flight_iata": "BA2293"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "LATAM Airlines",
+        "departure": "ICN",
+        "arrival": "DOH",
+        "flight_iata": "LA6037"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Iberia",
+        "departure": "ICN",
+        "arrival": "DOH",
+        "flight_iata": "IB6329"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Royal Air Maroc",
+        "departure": "ICN",
+        "arrival": "DOH",
+        "flight_iata": "AT5713"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "AirSERBIA",
+        "departure": "ICN",
+        "arrival": "DOH",
+        "flight_iata": "JU8358"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Asiana Airlines",
+        "departure": "ICN",
+        "arrival": "DOH",
+        "flight_iata": "OZ6889"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Korean Air",
+        "departure": "HND",
+        "arrival": "ICN",
+        "flight_iata": "KE5706"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "All Nippon Airways",
+        "departure": "HND",
+        "arrival": "ICN",
+        "flight_iata": "NH6895"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "AlphaSky",
+        "departure": "HND",
+        "arrival": "SGN",
+        "flight_iata": "AS7327"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "American Airlines",
+        "departure": "HND",
+        "arrival": "SGN",
+        "flight_iata": "AA8493"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Thai Airways",
+        "departure": "HND",
+        "arrival": "BKK",
+        "flight_iata": "TG6102"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Air Astana",
+        "departure": "HND",
+        "arrival": "BKK",
+        "flight_iata": "KC1033"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "IndiGo",
+        "departure": "HND",
+        "arrival": "BKK",
+        "flight_iata": "6E3807"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "SriLankan Airlines",
+        "departure": "HND",
+        "arrival": "BKK",
+        "flight_iata": "UL3357"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Bangkok Airways",
+        "departure": "HND",
+        "arrival": "BKK",
+        "flight_iata": "PG4152"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "AlphaSky",
+        "departure": "HND",
+        "arrival": "BKK",
+        "flight_iata": "AS7337"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "American Airlines",
+        "departure": "HND",
+        "arrival": "BKK",
+        "flight_iata": "AA8485"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Cathay Pacific",
+        "departure": "HND",
+        "arrival": "HKG",
+        "flight_iata": "CX5623"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Flexflight",
+        "departure": "HAN",
+        "arrival": "KIX",
+        "flight_iata": "W24938"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "vietjet air",
+        "departure": "HAN",
+        "arrival": "KIX",
+        "flight_iata": "A12938"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Japan Airlines",
+        "departure": "HAN",
+        "arrival": "KIX",
+        "flight_iata": "JL5018"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Korean Air",
+        "departure": "HAN",
+        "arrival": "PUS",
+        "flight_iata": "KE5686"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Etihad Airways",
+        "departure": "HAN",
+        "arrival": "PUS",
+        "flight_iata": "EY7306"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "vietjet air",
+        "departure": "HAN",
+        "arrival": "PUS",
+        "flight_iata": "H14189"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Air Horizont",
+        "departure": "CGO",
+        "arrival": "SZX",
+        "flight_iata": "HT3806"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Gridiron Air",
+        "departure": "CGO",
+        "arrival": "HGH",
+        "flight_iata": "GI4233"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Gridiron Air",
+        "departure": "CGO",
+        "arrival": "BUD",
+        "flight_iata": "GI4383"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Gridiron Air",
+        "departure": "CGO",
+        "arrival": "WEH",
+        "flight_iata": "GI4011"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Gridiron Air",
+        "departure": "CGO",
+        "arrival": "UYN",
+        "flight_iata": "GI4103"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Gridiron Air",
+        "departure": "CGO",
+        "arrival": "TYN",
+        "flight_iata": "GI4039"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Gridiron Air",
+        "departure": "CGO",
+        "arrival": "MAA",
+        "flight_iata": "GI4387"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Gridiron Air",
+        "departure": "CGO",
+        "arrival": "MNL",
+        "flight_iata": "GI4351"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "AirAsia",
+        "departure": "CCU",
+        "arrival": "DMK",
+        "flight_iata": "FD121"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Skytrans Australia",
+        "departure": "BNE",
+        "arrival": "GYB",
+        "flight_iata": "QN961"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Nauru Airlines",
+        "departure": "BNE",
+        "arrival": "DRW",
+        "flight_iata": "ON353"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "North-Western Cargo",
+        "departure": "XIY",
+        "arrival": "CAN",
+        "flight_iata": "CO9617"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Gridiron Air",
+        "departure": "WEH",
+        "arrival": "CGO",
+        "flight_iata": "GI4012"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Team Global Express",
+        "departure": "MEL",
+        "arrival": "PER",
+        "flight_iata": null
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Air Horizont",
+        "departure": "KWE",
+        "arrival": "DEL",
+        "flight_iata": "HT3883"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "sun phuquoc airways",
+        "departure": "ICN",
+        "arrival": "HAN",
+        "flight_iata": "W16093"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "sun phuquoc airways",
+        "departure": "ICN",
+        "arrival": "SGN",
+        "flight_iata": "W16091"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Bluebird Airways",
+        "departure": "HYD",
+        "arrival": "BOM",
+        "flight_iata": "BZ154"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Flexflight",
+        "departure": "HAN",
+        "arrival": "PUS",
+        "flight_iata": "W24982"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "vietjet air",
+        "departure": "HAN",
+        "arrival": "PUS",
+        "flight_iata": "A12982"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "jeju air",
+        "departure": "HAN",
+        "arrival": "ICN",
+        "flight_iata": "H19826"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "vietjet air",
+        "departure": "HAN",
+        "arrival": "NRT",
+        "flight_iata": "H14229"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Flexflight",
+        "departure": "HAN",
+        "arrival": "NRT",
+        "flight_iata": "W24932"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "vietjet air",
+        "departure": "HAN",
+        "arrival": "NRT",
+        "flight_iata": "A12932"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "All Nippon Airways",
+        "departure": "HAN",
+        "arrival": "NRT",
+        "flight_iata": "NH9716"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "All Nippon Airways",
+        "departure": "HAN",
+        "arrival": "NGO",
+        "flight_iata": "NH9720"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "All Nippon Airways",
+        "departure": "HAN",
+        "arrival": "KIX",
+        "flight_iata": "NH9718"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Philippine Airlines",
+        "departure": "HAN",
+        "arrival": "MNL",
+        "flight_iata": "PR3347"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Gridiron Air",
+        "departure": "HFE",
+        "arrival": "CGO",
+        "flight_iata": "GI4114"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Aero K",
+        "departure": "DAD",
+        "arrival": "CJJ",
+        "flight_iata": "RF532"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Korean Air",
+        "departure": "ICN",
+        "arrival": "UBN",
+        "flight_iata": "KE5649"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "AirAsia",
+        "departure": "TFU",
+        "arrival": "DMK",
+        "flight_iata": "AK563"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "JDL Airlines",
+        "departure": "PKX",
+        "arrival": "BKK",
+        "flight_iata": "JG2997"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "HK express",
+        "departure": "PKX",
+        "arrival": "HKG",
+        "flight_iata": "UO235"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "AirAsia",
+        "departure": "PKX",
+        "arrival": "KUL",
+        "flight_iata": "AK343"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "JDL Airlines",
+        "departure": "PKX",
+        "arrival": "SZX",
+        "flight_iata": "JG2645"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "China Postal Airlines",
+        "departure": "PKX",
+        "arrival": "CAN",
+        "flight_iata": "CF9020"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "JDL Airlines",
+        "departure": "WUX",
+        "arrival": "SZX",
+        "flight_iata": "JG2862"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "JDL Airlines",
+        "departure": "WUX",
+        "arrival": "MNL",
+        "flight_iata": "JG2759"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "YTO Cargo Airlines",
+        "departure": "WNZ",
+        "arrival": "ICN",
+        "flight_iata": "YG9051"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Air New Zealand",
+        "departure": "WLG",
+        "arrival": "AKL",
+        "flight_iata": "NZ410"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Singapore Airlines",
+        "departure": "WLG",
+        "arrival": "AKL",
+        "flight_iata": "SQ4479"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Etihad Airways",
+        "departure": "WLG",
+        "arrival": "AKL",
+        "flight_iata": "EY4624"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "EVA Air",
+        "departure": "WLG",
+        "arrival": "AKL",
+        "flight_iata": "BR3290"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Air New Zealand",
+        "departure": "WLG",
+        "arrival": "BHE",
+        "flight_iata": "NZ5725"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Qantas",
+        "departure": "WLG",
+        "arrival": "BHE",
+        "flight_iata": "QF8590"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Jetstar",
+        "departure": "WLG",
+        "arrival": "AKL",
+        "flight_iata": "JQ250"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Qantas",
+        "departure": "WLG",
+        "arrival": "AKL",
+        "flight_iata": "QF5768"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Fiji Airways",
+        "departure": "WLG",
+        "arrival": "AKL",
+        "flight_iata": "FJ5532"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Emirates",
+        "departure": "WLG",
+        "arrival": "AKL",
+        "flight_iata": "EK7475"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Air Central",
+        "departure": "WEH",
+        "arrival": "CGO",
+        "flight_iata": "GI4012"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Central Airlines",
+        "departure": "WEF",
+        "arrival": "SZX",
+        "flight_iata": "I98846"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "S7 Airlines",
+        "departure": "VVO",
+        "arrival": "PKC",
+        "flight_iata": "S76215"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Air Falcon",
+        "departure": "URC",
+        "arrival": "NQZ",
+        "flight_iata": "FS7962"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Air Astana",
+        "departure": "URC",
+        "arrival": "NQZ",
+        "flight_iata": "KC1612"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "YTO Cargo Airlines",
+        "departure": "URC",
+        "arrival": "LHE",
+        "flight_iata": "YG9181"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Hong Kong Airlines",
+        "departure": "URC",
+        "arrival": "HKG",
+        "flight_iata": "HX457"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "YTO Cargo Airlines",
+        "departure": "URC",
+        "arrival": "TBS",
+        "flight_iata": "YG9179"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Lion Air",
+        "departure": "UPG",
+        "arrival": "BIK",
+        "flight_iata": "JT1880"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Lion Air",
+        "departure": "UPG",
+        "arrival": "BIK",
+        "flight_iata": "JT938"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Rimbun Air",
+        "departure": "UPG",
+        "arrival": "CGK",
+        "flight_iata": "RI321"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Lion Air",
+        "departure": "UPG",
+        "arrival": "SOQ",
+        "flight_iata": "JT940"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Lion Air",
+        "departure": "UPG",
+        "arrival": "MKQ",
+        "flight_iata": "JT1948"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Lion Air",
+        "departure": "UPG",
+        "arrival": "MKQ",
+        "flight_iata": "JT948"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Lion Air",
+        "departure": "UPG",
+        "arrival": "TIM",
+        "flight_iata": "JT1984"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Lion Air",
+        "departure": "UPG",
+        "arrival": "TIM",
+        "flight_iata": "JT984"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Scoot",
+        "departure": "TRZ",
+        "arrival": "SIN",
+        "flight_iata": "TR759"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Singapore Airlines",
+        "departure": "TRZ",
+        "arrival": "SIN",
+        "flight_iata": "SQ8415"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Air India Express",
+        "departure": "TRZ",
+        "arrival": "SHJ",
+        "flight_iata": "IX669"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Air India",
+        "departure": "TRZ",
+        "arrival": "SHJ",
+        "flight_iata": "AI9259"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Air India",
+        "departure": "TRZ",
+        "arrival": "SHJ",
+        "flight_iata": "AI9223"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Air Central",
+        "departure": "UYN",
+        "arrival": "XIY",
+        "flight_iata": "GI4104"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "China Southern Airlines",
+        "departure": "TYN",
+        "arrival": "PVG",
+        "flight_iata": "CZ2503"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Jin Air",
+        "departure": "TPE",
+        "arrival": "CJU",
+        "flight_iata": "LJ764"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Jeju Air",
+        "departure": "TPE",
+        "arrival": "PUS",
+        "flight_iata": "7C6154"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "jeju air",
+        "departure": "TPE",
+        "arrival": "PUS",
+        "flight_iata": "H19977"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Eastar Jet",
+        "departure": "TPE",
+        "arrival": "CJU",
+        "flight_iata": "ZE886"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Thai VietJet Air",
+        "departure": "TPE",
+        "arrival": "CTS",
+        "flight_iata": "VZ570"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Eastar Jet",
+        "departure": "TPE",
+        "arrival": "PUS",
+        "flight_iata": "ZE984"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Eastar Jet",
+        "departure": "TPE",
+        "arrival": "CJJ",
+        "flight_iata": "ZE782"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Jin Air",
+        "departure": "TPE",
+        "arrival": "PUS",
+        "flight_iata": "LJ752"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Jetstar Japan",
+        "departure": "TPE",
+        "arrival": "NRT",
+        "flight_iata": "GK12"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Eastar Jet",
+        "departure": "TPE",
+        "arrival": "PUS",
+        "flight_iata": "ZE988"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Jetstar Japan",
+        "departure": "TPE",
+        "arrival": "KIX",
+        "flight_iata": "GK50"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Peach",
+        "departure": "TPE",
+        "arrival": "NGO",
+        "flight_iata": "MM722"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Shandong Airlines",
+        "departure": "TAO",
+        "arrival": "HIA",
+        "flight_iata": "SC2433"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Jeju Air",
+        "departure": "TAG",
+        "arrival": "ICN",
+        "flight_iata": "7C2126"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "jeju air",
+        "departure": "TAG",
+        "arrival": "ICN",
+        "flight_iata": "H19824"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Shandong Airlines",
+        "departure": "SZX",
+        "arrival": "CEB",
+        "flight_iata": "SC2417"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Vietravel Airlines",
+        "departure": "SZX",
+        "arrival": "SGN",
+        "flight_iata": "VU8601"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "JDL Airlines",
+        "departure": "SZX",
+        "arrival": "WUX",
+        "flight_iata": "JG2861"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "SF Airlines",
+        "departure": "SZX",
+        "arrival": "PEK",
+        "flight_iata": "O37110"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Malaysia Airlines",
+        "departure": "SZX",
+        "arrival": "KUL",
+        "flight_iata": "MH523"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "JDL Airlines",
+        "departure": "SZX",
+        "arrival": "BAR",
+        "flight_iata": "JG2811"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Shandong Airlines",
+        "departure": "SZX",
+        "arrival": "XMN",
+        "flight_iata": "SC2477"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "SF Airlines",
+        "departure": "SZX",
+        "arrival": "HGH",
+        "flight_iata": "O37811"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "SF Airlines",
+        "departure": "SZX",
+        "arrival": "NTG",
+        "flight_iata": "O36845"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Central Airlines",
+        "departure": "SZX",
+        "arrival": "WEF",
+        "flight_iata": "I98845"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Asiana Airlines",
+        "departure": "SZX",
+        "arrival": "ICN",
+        "flight_iata": "OZ372"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "JDL Airlines",
+        "departure": "SZX",
+        "arrival": "PKX",
+        "flight_iata": "JG2646"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "JDL Airlines",
+        "departure": "SZX",
+        "arrival": "PKX",
+        "flight_iata": "JG2687"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Ethiopian Airlines",
+        "departure": "SZX",
+        "arrival": "LGG",
+        "flight_iata": "ET3013"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Shandong Airlines",
+        "departure": "SZX",
+        "arrival": "NKG",
+        "flight_iata": "SC2495"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Jetstar",
+        "departure": "SYD",
+        "arrival": "MCY",
+        "flight_iata": "JQ784"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Qantas",
+        "departure": "SYD",
+        "arrival": "MCY",
+        "flight_iata": "QF5784"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Fiji Airways",
+        "departure": "SYD",
+        "arrival": "NAN",
+        "flight_iata": "FJ914"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Qantas",
+        "departure": "SYD",
+        "arrival": "NAN",
+        "flight_iata": "QF3863"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Qantas",
+        "departure": "SYD",
+        "arrival": "MEL",
+        "flight_iata": "QF401"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "AlphaSky",
+        "departure": "SYD",
+        "arrival": "MEL",
+        "flight_iata": "AS5076"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "American Airlines",
+        "departure": "SYD",
+        "arrival": "MEL",
+        "flight_iata": "AA7372"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Cathay Pacific",
+        "departure": "SYD",
+        "arrival": "MEL",
+        "flight_iata": "CX9000"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Air New Zealand",
+        "departure": "SYD",
+        "arrival": "MEL",
+        "flight_iata": "NZ1801"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Emirates",
+        "departure": "SYD",
+        "arrival": "MEL",
+        "flight_iata": "EK5401"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Virgin Australia",
+        "departure": "SYD",
+        "arrival": "MEL",
+        "flight_iata": "VA800"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Singapore Airlines",
+        "departure": "SYD",
+        "arrival": "MEL",
+        "flight_iata": "SQ6836"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Qatar Airways",
+        "departure": "SYD",
+        "arrival": "MEL",
+        "flight_iata": "QR8512"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "China Southern Airlines",
+        "departure": "SYD",
+        "arrival": "MEL",
+        "flight_iata": "CZ1021"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Qantas",
+        "departure": "SYD",
+        "arrival": "PER",
+        "flight_iata": "QF641"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "AlphaSky",
+        "departure": "SYD",
+        "arrival": "PER",
+        "flight_iata": "AS5089"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Fiji Airways",
+        "departure": "SYD",
+        "arrival": "PER",
+        "flight_iata": "FJ5265"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "IndiGo",
+        "departure": "SYD",
+        "arrival": "PER",
+        "flight_iata": "6E4742"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Air New Zealand",
+        "departure": "SYD",
+        "arrival": "PER",
+        "flight_iata": "NZ7380"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Emirates",
+        "departure": "SYD",
+        "arrival": "PER",
+        "flight_iata": "EK5567"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Qantas",
+        "departure": "SYD",
+        "arrival": "BNE",
+        "flight_iata": "QF500"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Air Tahiti Nui",
+        "departure": "SYD",
+        "arrival": "BNE",
+        "flight_iata": "TN2915"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "AlphaSky",
+        "departure": "SYD",
+        "arrival": "BNE",
+        "flight_iata": "AS5244"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Cathay Pacific",
+        "departure": "SYD",
+        "arrival": "BNE",
+        "flight_iata": "CX9054"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "IndiGo",
+        "departure": "SYD",
+        "arrival": "BNE",
+        "flight_iata": "6E4706"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Air New Zealand",
+        "departure": "SYD",
+        "arrival": "BNE",
+        "flight_iata": "NZ1700"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Emirates",
+        "departure": "SYD",
+        "arrival": "BNE",
+        "flight_iata": "EK5500"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Jetstar",
+        "departure": "SYD",
+        "arrival": "BNE",
+        "flight_iata": "JQ810"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "IndiGo",
+        "departure": "SYD",
+        "arrival": "BNE",
+        "flight_iata": "6E4579"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Jetstar",
+        "departure": "SYD",
+        "arrival": "MEL",
+        "flight_iata": "JQ501"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "IndiGo",
+        "departure": "SYD",
+        "arrival": "MEL",
+        "flight_iata": "6E4594"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Jetstar",
+        "departure": "SYD",
+        "arrival": "OOL",
+        "flight_iata": "JQ400"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Qantas",
+        "departure": "SYD",
+        "arrival": "OOL",
+        "flight_iata": "QF5400"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "IndiGo",
+        "departure": "SYD",
+        "arrival": "OOL",
+        "flight_iata": "6E4511"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Emirates",
+        "departure": "SYD",
+        "arrival": "DXB",
+        "flight_iata": "EK415"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Qantas",
+        "departure": "SYD",
+        "arrival": "DXB",
+        "flight_iata": "QF8415"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Condor",
+        "departure": "SYD",
+        "arrival": "DXB",
+        "flight_iata": "DE5943"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Alitalia",
+        "departure": "SYD",
+        "arrival": "DXB",
+        "flight_iata": "AZ5633"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Qantas",
+        "departure": "SYD",
+        "arrival": "OOL",
+        "flight_iata": "QF7443"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Fiji Airways",
+        "departure": "SUV",
+        "arrival": "VBV",
+        "flight_iata": "FJ137"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Shenzhen Airlines",
+        "departure": "SIN",
+        "arrival": "SZX",
+        "flight_iata": "ZH228"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Scoot",
+        "departure": "SIN",
+        "arrival": "PER",
+        "flight_iata": "TR16"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "IndiGo",
+        "departure": "SIN",
+        "arrival": "TRZ",
+        "flight_iata": "6E1008"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Scoot",
+        "departure": "SIN",
+        "arrival": "ICN",
+        "flight_iata": "TR842"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Xiamen Air",
+        "departure": "SIN",
+        "arrival": "XMN",
+        "flight_iata": "MF8676"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Singapore Airlines",
+        "departure": "SIN",
+        "arrival": "DEL",
+        "flight_iata": "SQ402"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "China Eastern Airlines",
+        "departure": "SIN",
+        "arrival": "KMG",
+        "flight_iata": "MU9648"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Scoot",
+        "departure": "SIN",
+        "arrival": "MEL",
+        "flight_iata": "TR58"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Singapore Airlines",
+        "departure": "SIN",
+        "arrival": "ICN",
+        "flight_iata": "SQ612"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "T'way Air",
+        "departure": "SIN",
+        "arrival": "CJU",
+        "flight_iata": "TW166"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Scoot",
+        "departure": "SIN",
+        "arrival": "OKA",
+        "flight_iata": "TR834"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Singapore Airlines",
+        "departure": "SIN",
+        "arrival": "IST",
+        "flight_iata": "SQ392"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Singapore Airlines",
+        "departure": "SIN",
+        "arrival": "MAN",
+        "flight_iata": "SQ302"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Scoot",
+        "departure": "SIN",
+        "arrival": "SYD",
+        "flight_iata": "TR10"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "China Postal Airlines",
+        "departure": "SJW",
+        "arrival": "KIX",
+        "flight_iata": "CF217"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Shandong Airlines",
+        "departure": "SGN",
+        "arrival": "TAO",
+        "flight_iata": "SC4646"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "China Southern Airlines",
+        "departure": "SGN",
+        "arrival": "WUH",
+        "flight_iata": "CZ8318"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "EVA Air",
+        "departure": "SGN",
+        "arrival": "TPE",
+        "flight_iata": "BR382"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Shandong Airlines",
+        "departure": "SGN",
+        "arrival": "TNA",
+        "flight_iata": "SC8074"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Juneyao Air",
+        "departure": "SGN",
+        "arrival": "PVG",
+        "flight_iata": "HO1328"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Vietnam Airlines",
+        "departure": "SGN",
+        "arrival": "PUS",
+        "flight_iata": "VN422"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "United Airlines",
+        "departure": "ROR",
+        "arrival": "GUM",
+        "flight_iata": "UA192"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Qantas",
+        "departure": "ROK",
+        "arrival": "MKY",
+        "flight_iata": "QF7495"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "China Postal Airlines",
+        "departure": "RGN",
+        "arrival": "CTU",
+        "flight_iata": "CF240"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "China Postal Airlines",
+        "departure": "RGN",
+        "arrival": "CKG",
+        "flight_iata": "CF242"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "JDL Airlines",
+        "departure": "RGN",
+        "arrival": "CTU",
+        "flight_iata": "JG2996"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Air Zeta",
+        "departure": "PVG",
+        "arrival": "ICN",
+        "flight_iata": "KJ948"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Royalair Philippines",
+        "departure": "PVG",
+        "arrival": "MPH",
+        "flight_iata": "RW803"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "China Southern Airlines",
+        "departure": "PVG",
+        "arrival": "ANC",
+        "flight_iata": "CZ437"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "China Postal Airlines",
+        "departure": "PVG",
+        "arrival": "KIX",
+        "flight_iata": "CF205"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Air China",
+        "departure": "PVG",
+        "arrival": "AMS",
+        "flight_iata": "CA1039"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Air China",
+        "departure": "PVG",
+        "arrival": "ANC",
+        "flight_iata": "CA1019"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Air China",
+        "departure": "PVG",
+        "arrival": "LGG",
+        "flight_iata": "CA8421"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "China Cargo Airlines",
+        "departure": "PVG",
+        "arrival": "CKG",
+        "flight_iata": "CK5061"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Turkish Airlines",
+        "departure": "PVG",
+        "arrival": "IST",
+        "flight_iata": "TK6587"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Qatar Airways",
+        "departure": "PVG",
+        "arrival": "DOH",
+        "flight_iata": "QR8961"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Thai VietJet Air",
+        "departure": "PVG",
+        "arrival": "BKK",
+        "flight_iata": "VZ3525"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "SF Airlines",
+        "departure": "PVG",
+        "arrival": "SZX",
+        "flight_iata": "O37810"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "All Nippon Airways",
+        "departure": "PVG",
+        "arrival": "NRT",
+        "flight_iata": "NH8404"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "China Cargo Airlines",
+        "departure": "PVG",
+        "arrival": "RUH",
+        "flight_iata": "CK251"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "VietJet Air",
+        "departure": "PVG",
+        "arrival": "HAN",
+        "flight_iata": "VJ7239"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Aeroflot",
+        "departure": "PVG",
+        "arrival": "VVO",
+        "flight_iata": "SU6648"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Thai Lion Air",
+        "departure": "PVG",
+        "arrival": "DMK",
+        "flight_iata": "SL927"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Shanghai Airlines",
+        "departure": "PVG",
+        "arrival": "BUD",
+        "flight_iata": "FM869"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Batik Air Malaysia",
+        "departure": "PVG",
+        "arrival": "KUL",
+        "flight_iata": "OD617"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "VietJet Air",
+        "departure": "PVG",
+        "arrival": "SGN",
+        "flight_iata": "VJ3901"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Aeroflot",
+        "departure": "PVG",
+        "arrival": "KHV",
+        "flight_iata": "SU5477"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Malaysia Airlines",
+        "departure": "PVG",
+        "arrival": "KUL",
+        "flight_iata": "MH387"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "China Cargo Airlines",
+        "departure": "PVG",
+        "arrival": "HKG",
+        "flight_iata": "CK263"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Air China",
+        "departure": "PVG",
+        "arrival": "MUC",
+        "flight_iata": "CA827"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Air India",
+        "departure": "PNQ",
+        "arrival": "DEL",
+        "flight_iata": "AI2608"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "LOT",
+        "departure": "PNQ",
+        "arrival": "DEL",
+        "flight_iata": "LO4458"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "IndiGo",
+        "departure": "PNQ",
+        "arrival": "DXB",
+        "flight_iata": "6E1483"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "IndiGo",
+        "departure": "PNQ",
+        "arrival": "DEL",
+        "flight_iata": "6E5321"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Virgin Atlantic",
+        "departure": "PNQ",
+        "arrival": "DEL",
+        "flight_iata": "VS9523"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Qantas",
+        "departure": "PNQ",
+        "arrival": "DEL",
+        "flight_iata": "QF5350"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Japan Airlines",
+        "departure": "PNQ",
+        "arrival": "DEL",
+        "flight_iata": "JL9682"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Air India Express",
+        "departure": "PNQ",
+        "arrival": "MAA",
+        "flight_iata": "IX2660"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Air India",
+        "departure": "PNQ",
+        "arrival": "MAA",
+        "flight_iata": "AI9553"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "IndiGo",
+        "departure": "PNQ",
+        "arrival": "LKO",
+        "flight_iata": "6E338"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Air India Express",
+        "departure": "PNQ",
+        "arrival": "BLR",
+        "flight_iata": "IX2681"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Air India",
+        "departure": "PNQ",
+        "arrival": "BLR",
+        "flight_iata": "AI9931"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Air New Zealand",
+        "departure": "PMR",
+        "arrival": "AKL",
+        "flight_iata": "NZ5120"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Samoa Airways",
+        "departure": "FGI",
+        "arrival": "PPG",
+        "flight_iata": "OL218"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Malaysia Airlines",
+        "departure": "PER",
+        "arrival": "KUL",
+        "flight_iata": "MH126"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Oman Air",
+        "departure": "PER",
+        "arrival": "KUL",
+        "flight_iata": "WY5559"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "SriLankan Airlines",
+        "departure": "PER",
+        "arrival": "KUL",
+        "flight_iata": "UL2126"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Turkish Airlines",
+        "departure": "PER",
+        "arrival": "KUL",
+        "flight_iata": "TK7906"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Saudia",
+        "departure": "PER",
+        "arrival": "KUL",
+        "flight_iata": "SV6389"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Qatar Airways",
+        "departure": "PER",
+        "arrival": "KUL",
+        "flight_iata": "QR5019"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Qantas",
+        "departure": "PER",
+        "arrival": "KUL",
+        "flight_iata": "QF5145"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Air Mauritius",
+        "departure": "PER",
+        "arrival": "KUL",
+        "flight_iata": "MK9781"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "KLM",
+        "departure": "PER",
+        "arrival": "KUL",
+        "flight_iata": "KL3962"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Fly Sky Airlines",
+        "departure": "PER",
+        "arrival": "KUL",
+        "flight_iata": "FY7156"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Myanmar Airways International",
+        "departure": "PER",
+        "arrival": "KUL",
+        "flight_iata": "8M9634"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "China Postal Airlines",
+        "departure": "PEK",
+        "arrival": "PVG",
+        "flight_iata": "CF9021"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Hainan Airlines",
+        "departure": "PEK",
+        "arrival": "MAN",
+        "flight_iata": "HU753"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Air China",
+        "departure": "PEK",
+        "arrival": "MUC",
+        "flight_iata": "CA961"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Air China",
+        "departure": "PEK",
+        "arrival": "VIE",
+        "flight_iata": "CA841"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Air China",
+        "departure": "PEK",
+        "arrival": "LGW",
+        "flight_iata": "CA851"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Air China",
+        "departure": "PEK",
+        "arrival": "BCN",
+        "flight_iata": "CA845"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "China Postal Airlines",
+        "departure": "PEK",
+        "arrival": "CAN",
+        "flight_iata": "CF9120"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Hainan Airlines",
+        "departure": "PEK",
+        "arrival": "BRU",
+        "flight_iata": "HU491"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Hainan Airlines",
+        "departure": "PEK",
+        "arrival": "BER",
+        "flight_iata": "HU489"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Air China",
+        "departure": "PEK",
+        "arrival": "CAI",
+        "flight_iata": "CA829"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Air China",
+        "departure": "PEK",
+        "arrival": "FRA",
+        "flight_iata": "CA965"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Air China",
+        "departure": "PEK",
+        "arrival": "ATH",
+        "flight_iata": "CA863"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Hainan Airlines",
+        "departure": "PEK",
+        "arrival": "PRG",
+        "flight_iata": "HU7937"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Azerbaijan Airlines",
+        "departure": "PEK",
+        "arrival": "GYD",
+        "flight_iata": "J268"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "SF Airlines",
+        "departure": "PEK",
+        "arrival": "CTU",
+        "flight_iata": "O37857"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Air China",
+        "departure": "PEK",
+        "arrival": "BRU",
+        "flight_iata": "CA963"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "VietJet Qazaqstan",
+        "departure": "OVB",
+        "arrival": "NQZ",
+        "flight_iata": "IQ512"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "vietjet qazaqstan",
+        "departure": "OVB",
+        "arrival": "NQZ",
+        "flight_iata": "H19593"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "S7 Airlines",
+        "departure": "OVB",
+        "arrival": "HTA",
+        "flight_iata": "S75223"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Philippines AirAsia",
+        "departure": "MNL",
+        "arrival": "BCD",
+        "flight_iata": "Z2603"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "VietJet Air",
+        "departure": "MNL",
+        "arrival": "SGN",
+        "flight_iata": "VJ859"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Flexflight",
+        "departure": "MNL",
+        "arrival": "SGN",
+        "flight_iata": "W24859"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "vietjet air",
+        "departure": "MNL",
+        "arrival": "SGN",
+        "flight_iata": "A12859"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "vietjet air",
+        "departure": "MNL",
+        "arrival": "SGN",
+        "flight_iata": "H14056"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "YTO Cargo Airlines",
+        "departure": "MNL",
+        "arrival": "HGH",
+        "flight_iata": "YG9080"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Air Marshall Islands",
+        "departure": "MAJ",
+        "arrival": "KWA",
+        "flight_iata": "CW510"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Virgin Australia",
+        "departure": "MEL",
+        "arrival": "CNS",
+        "flight_iata": "VA1291"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Singapore Airlines",
+        "departure": "MEL",
+        "arrival": "CNS",
+        "flight_iata": "SQ6674"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Qatar Airways",
+        "departure": "MEL",
+        "arrival": "CNS",
+        "flight_iata": "QR7155"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "China Southern Airlines",
+        "departure": "MEL",
+        "arrival": "CNS",
+        "flight_iata": "CZ1059"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Air India",
+        "departure": "MEL",
+        "arrival": "CNS",
+        "flight_iata": "AI7167"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Qantas",
+        "departure": "MEL",
+        "arrival": "PER",
+        "flight_iata": "QF761"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "LATAM Airlines",
+        "departure": "MEL",
+        "arrival": "PER",
+        "flight_iata": "LA5913"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Air New Zealand",
+        "departure": "MEL",
+        "arrival": "PER",
+        "flight_iata": "NZ7291"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Emirates",
+        "departure": "MEL",
+        "arrival": "PER",
+        "flight_iata": "EK5385"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Jetstar",
+        "departure": "MEL",
+        "arrival": "BNE",
+        "flight_iata": "JQ560"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "IndiGo",
+        "departure": "MEL",
+        "arrival": "BNE",
+        "flight_iata": "6E4443"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "QantasLink",
+        "departure": "MEL",
+        "arrival": "SYD",
+        "flight_iata": null
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Virgin Australia",
+        "departure": "MEL",
+        "arrival": "SYD",
+        "flight_iata": "VA803"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Singapore Airlines",
+        "departure": "MEL",
+        "arrival": "SYD",
+        "flight_iata": "SQ6845"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Qatar Airways",
+        "departure": "MEL",
+        "arrival": "SYD",
+        "flight_iata": "QR6327"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "China Southern Airlines",
+        "departure": "MEL",
+        "arrival": "SYD",
+        "flight_iata": "CZ1024"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Air India",
+        "departure": "MEL",
+        "arrival": "SYD",
+        "flight_iata": "AI7244"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Air Canada",
+        "departure": "MEL",
+        "arrival": "SYD",
+        "flight_iata": "AC2795"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Virgin Australia",
+        "departure": "MEL",
+        "arrival": "BNE",
+        "flight_iata": "VA303"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Singapore Airlines",
+        "departure": "MEL",
+        "arrival": "BNE",
+        "flight_iata": "SQ6911"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Qatar Airways",
+        "departure": "MEL",
+        "arrival": "BNE",
+        "flight_iata": "QR4253"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "China Southern Airlines",
+        "departure": "MEL",
+        "arrival": "BNE",
+        "flight_iata": "CZ1048"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Air Canada",
+        "departure": "MEL",
+        "arrival": "BNE",
+        "flight_iata": "AC2729"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "QantasLink",
+        "departure": "MEL",
+        "arrival": "BNE",
+        "flight_iata": null
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Air New Zealand",
+        "departure": "MEL",
+        "arrival": "BNE",
+        "flight_iata": "NZ7417"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Emirates",
+        "departure": "MEL",
+        "arrival": "BNE",
+        "flight_iata": "EK5073"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "IndiGo",
+        "departure": "MEL",
+        "arrival": "BNE",
+        "flight_iata": "6E4749"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Jetstar",
+        "departure": "MEL",
+        "arrival": "HBA",
+        "flight_iata": "JQ701"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Qantas",
+        "departure": "MEL",
+        "arrival": "HBA",
+        "flight_iata": "QF5701"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "IndiGo",
+        "departure": "MEL",
+        "arrival": "HBA",
+        "flight_iata": "6E4526"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Jetstar",
+        "departure": "MEL",
+        "arrival": "SYD",
+        "flight_iata": "JQ500"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "IndiGo",
+        "departure": "MEL",
+        "arrival": "SYD",
+        "flight_iata": "6E4540"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Qantas",
+        "departure": "MEL",
+        "arrival": "WSI",
+        "flight_iata": "QF7344"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Eastar Jet",
+        "departure": "MDC",
+        "arrival": "ICN",
+        "flight_iata": "ZE536"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "empty",
+        "departure": "MCY",
+        "arrival": "MEB",
+        "flight_iata": null
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "cancelled",
+        "airline_name": "airblue",
+        "departure": "LHE",
+        "arrival": "SHJ",
+        "flight_iata": "PA412"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Tianjin Air Cargo",
+        "departure": "KWE",
+        "arrival": "DEL",
+        "flight_iata": "HT3883"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Shenzhen Airlines",
+        "departure": "KUL",
+        "arrival": "SZX",
+        "flight_iata": "ZH334"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "AirAsia",
+        "departure": "KUL",
+        "arrival": "KHH",
+        "flight_iata": "AK170"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Cathay Pacific",
+        "departure": "KUL",
+        "arrival": "HKG",
+        "flight_iata": "CX732"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Xiamen Air",
+        "departure": "KUL",
+        "arrival": "XMN",
+        "flight_iata": "MF858"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "China Southern Airlines",
+        "departure": "KUL",
+        "arrival": "CAN",
+        "flight_iata": "CZ8072"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Batik Air Malaysia",
+        "departure": "KUL",
+        "arrival": "DIL",
+        "flight_iata": "OD372"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Emirates",
+        "departure": "KUL",
+        "arrival": "DXB",
+        "flight_iata": "EK343"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Saudia",
+        "departure": "KUL",
+        "arrival": "JED",
+        "flight_iata": "SV841"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "cancelled",
+        "airline_name": "Sichuan Airlines",
+        "departure": "KUL",
+        "arrival": "SZX",
+        "flight_iata": "3U9102"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Scoot",
+        "departure": "KMG",
+        "arrival": "SIN",
+        "flight_iata": "TR161"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Batik Air Malaysia",
+        "departure": "KMG",
+        "arrival": "SZB",
+        "flight_iata": "OD697"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Batik Air Malaysia",
+        "departure": "KMG",
+        "arrival": "KUL",
+        "flight_iata": "OD671"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "AirAsia",
+        "departure": "KMG",
+        "arrival": "KUL",
+        "flight_iata": "AK104"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "YTO Cargo Airlines",
+        "departure": "KMG",
+        "arrival": "DEL",
+        "flight_iata": "YG9159"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "YTO Cargo Airlines",
+        "departure": "KMG",
+        "arrival": "KHI",
+        "flight_iata": "YG9067"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "YTO Cargo Airlines",
+        "departure": "KMG",
+        "arrival": "DEL",
+        "flight_iata": "YG9157"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "YTO Cargo Airlines",
+        "departure": "KMG",
+        "arrival": "MAA",
+        "flight_iata": "YG9129"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "YTO Cargo Airlines",
+        "departure": "KMG",
+        "arrival": "BOM",
+        "flight_iata": "YG9103"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "United Airlines",
+        "departure": "HND",
+        "arrival": "SIN",
+        "flight_iata": "UA7991"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Air Canada",
+        "departure": "HND",
+        "arrival": "SIN",
+        "flight_iata": "AC6228"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Singapore Airlines",
+        "departure": "HND",
+        "arrival": "SIN",
+        "flight_iata": "SQ5905"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "United Airlines",
+        "departure": "HND",
+        "arrival": "LAX",
+        "flight_iata": "UA7982"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Turkish Airlines",
+        "departure": "HND",
+        "arrival": "BKK",
+        "flight_iata": "TK7107"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "All Nippon Airways",
+        "departure": "HND",
+        "arrival": "BKK",
+        "flight_iata": "NH5965"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Japan Airlines",
+        "departure": "HND",
+        "arrival": "LHR",
+        "flight_iata": "JL41"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Iberia",
+        "departure": "HND",
+        "arrival": "LHR",
+        "flight_iata": "IB7191"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "British Airways",
+        "departure": "HND",
+        "arrival": "LHR",
+        "flight_iata": "BA4609"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "IndiGo",
+        "departure": "HND",
+        "arrival": "SIN",
+        "flight_iata": "6E3808"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "AlphaSky",
+        "departure": "HND",
+        "arrival": "SIN",
+        "flight_iata": "AS7349"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "SriLankan Airlines",
+        "departure": "HND",
+        "arrival": "SIN",
+        "flight_iata": "UL3335"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Qantas",
+        "departure": "HND",
+        "arrival": "SIN",
+        "flight_iata": "QF4026"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "American Airlines",
+        "departure": "HND",
+        "arrival": "SIN",
+        "flight_iata": "AA8487"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Thai Airways",
+        "departure": "HND",
+        "arrival": "BKK",
+        "flight_iata": "TG6106"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Air Canada",
+        "departure": "HND",
+        "arrival": "BKK",
+        "flight_iata": "AC6273"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "United Airlines",
+        "departure": "HND",
+        "arrival": "BKK",
+        "flight_iata": "UA8003"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "All Nippon Airways",
+        "departure": "HND",
+        "arrival": "PVG",
+        "flight_iata": "NH9758"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Japan Airlines",
+        "departure": "HND",
+        "arrival": "DXB",
+        "flight_iata": "JL5093"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Air New Zealand",
+        "departure": "TRG",
+        "arrival": "AKL",
+        "flight_iata": "NZ5126"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Qantas",
+        "departure": "TRG",
+        "arrival": "AKL",
+        "flight_iata": "QF8520"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "VietJet Air",
+        "departure": "AMD",
+        "arrival": "HAN",
+        "flight_iata": "VJ1926"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "vietjet air",
+        "departure": "AMD",
+        "arrival": "HAN",
+        "flight_iata": "A14926"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Flexflight",
+        "departure": "AMD",
+        "arrival": "HAN",
+        "flight_iata": "W23926"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "vietjet air",
+        "departure": "AMD",
+        "arrival": "HAN",
+        "flight_iata": "H15145"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "IndiGo",
+        "departure": "AMD",
+        "arrival": "DEL",
+        "flight_iata": "6E5385"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Virgin Atlantic",
+        "departure": "AMD",
+        "arrival": "DEL",
+        "flight_iata": "VS8651"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Turkish Airlines",
+        "departure": "AMD",
+        "arrival": "DEL",
+        "flight_iata": "TK7782"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Qantas",
+        "departure": "AMD",
+        "arrival": "DEL",
+        "flight_iata": "QF5334"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Japan Airlines",
+        "departure": "AMD",
+        "arrival": "DEL",
+        "flight_iata": "JL5185"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Air Astana",
+        "departure": "ALA",
+        "arrival": "ICN",
+        "flight_iata": "KC909"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Asiana Airlines",
+        "departure": "ALA",
+        "arrival": "ICN",
+        "flight_iata": "OZ6962"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Cathay Pacific",
+        "departure": "ALA",
+        "arrival": "ICN",
+        "flight_iata": "CX6226"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Air New Zealand",
+        "departure": "AKL",
+        "arrival": "NSN",
+        "flight_iata": "NZ5061"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Air New Zealand",
+        "departure": "AKL",
+        "arrival": "CHC",
+        "flight_iata": "NZ523"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Air New Zealand",
+        "departure": "AKL",
+        "arrival": "ZQN",
+        "flight_iata": "NZ613"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Air New Zealand",
+        "departure": "AKL",
+        "arrival": "TRG",
+        "flight_iata": "NZ5127"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Qantas",
+        "departure": "AKL",
+        "arrival": "SYD",
+        "flight_iata": "QF4"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Air New Zealand",
+        "departure": "AKL",
+        "arrival": "BHE",
+        "flight_iata": "NZ5201"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Air New Zealand",
+        "departure": "AKL",
+        "arrival": "WLG",
+        "flight_iata": "NZ407"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Turkish Airlines",
+        "departure": "AKL",
+        "arrival": "WLG",
+        "flight_iata": "TK8745"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "South African Airways",
+        "departure": "AKL",
+        "arrival": "WLG",
+        "flight_iata": "SA7074"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "All Nippon Airways",
+        "departure": "AKL",
+        "arrival": "WLG",
+        "flight_iata": "NH7974"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Etihad Airways",
+        "departure": "AKL",
+        "arrival": "WLG",
+        "flight_iata": "EY4603"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "EVA Air",
+        "departure": "AKL",
+        "arrival": "WLG",
+        "flight_iata": "BR3361"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Jetstar",
+        "departure": "AKL",
+        "arrival": "WLG",
+        "flight_iata": "JQ253"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Qantas",
+        "departure": "AKL",
+        "arrival": "WLG",
+        "flight_iata": "QF5771"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Fiji Airways",
+        "departure": "AKL",
+        "arrival": "WLG",
+        "flight_iata": "FJ5531"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Emirates",
+        "departure": "AKL",
+        "arrival": "WLG",
+        "flight_iata": "EK7559"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Jetstar",
+        "departure": "AKL",
+        "arrival": "CHC",
+        "flight_iata": "JQ227"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Qantas",
+        "departure": "AKL",
+        "arrival": "CHC",
+        "flight_iata": "QF5826"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Emirates",
+        "departure": "AKL",
+        "arrival": "CHC",
+        "flight_iata": "EK7496"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Jetstar",
+        "departure": "AKL",
+        "arrival": "BNE",
+        "flight_iata": "JQ150"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Qantas",
+        "departure": "AKL",
+        "arrival": "BNE",
+        "flight_iata": "QF5852"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Jetstar",
+        "departure": "AVV",
+        "arrival": "SYD",
+        "flight_iata": "JQ602"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Qantas",
+        "departure": "AVV",
+        "arrival": "SYD",
+        "flight_iata": "QF5602"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Emirates",
+        "departure": "AVV",
+        "arrival": "SYD",
+        "flight_iata": "EK7573"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Red Wings",
+        "departure": "OMS",
+        "arrival": "SVX",
+        "flight_iata": "WZ1072"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "JDL Airlines",
+        "departure": "NTG",
+        "arrival": "NGO",
+        "flight_iata": "JG2707"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "JDL Airlines",
+        "departure": "NTG",
+        "arrival": "MNL",
+        "flight_iata": "JG2931"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Air New Zealand",
+        "departure": "NSN",
+        "arrival": "WLG",
+        "flight_iata": "NZ5302"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "empty",
+        "departure": "NSN",
+        "arrival": "WLG",
+        "flight_iata": null
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "SF Airlines",
+        "departure": "NRT",
+        "arrival": "SZX",
+        "flight_iata": "O3364"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Shandong Airlines",
+        "departure": "NRT",
+        "arrival": "TAO",
+        "flight_iata": "SC2406"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "China Postal Airlines",
+        "departure": "NKG",
+        "arrival": "HAK",
+        "flight_iata": "CF9052"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "China Postal Airlines",
+        "departure": "NKG",
+        "arrival": "CRK",
+        "flight_iata": "CF223"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "China Postal Airlines",
+        "departure": "NKG",
+        "arrival": "PEK",
+        "flight_iata": "CF9087"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "SF Airlines",
+        "departure": "NKG",
+        "arrival": "CAN",
+        "flight_iata": "O37303"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Atlas Air",
+        "departure": "NGO",
+        "arrival": "LAX",
+        "flight_iata": "5Y3035"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Air New Zealand",
+        "departure": "NPL",
+        "arrival": "AKL",
+        "flight_iata": "NZ5032"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Singapore Airlines",
+        "departure": "NPL",
+        "arrival": "AKL",
+        "flight_iata": "SQ4400"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Singapore Airlines",
+        "departure": "NPL",
+        "arrival": "AKL",
+        "flight_iata": "SQ4404"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Qantas",
+        "departure": "NPL",
+        "arrival": "AKL",
+        "flight_iata": "QF8503"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Air New Zealand",
+        "departure": "NPE",
+        "arrival": "WLG",
+        "flight_iata": "NZ5883"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Royalair Philippines",
+        "departure": "NNG",
+        "arrival": "CRK",
+        "flight_iata": "RW613"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Fiji Airways",
+        "departure": "SUV",
+        "arrival": "NAN",
+        "flight_iata": "FJ8"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Singapore Airlines",
+        "departure": "SUV",
+        "arrival": "NAN",
+        "flight_iata": "SQ6148"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Fiji Airways",
+        "departure": "NAN",
+        "arrival": "TVU",
+        "flight_iata": "FJ121"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Krasavia",
+        "departure": "BAX",
+        "arrival": "KJA",
+        "flight_iata": "KV104"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "JDL Airlines",
+        "departure": "BAR",
+        "arrival": "SZX",
+        "flight_iata": "JG2812"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Qantas",
+        "departure": "WSI",
+        "arrival": "ADL",
+        "flight_iata": "QF7348"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Kuwait Airways",
+        "departure": "KTM",
+        "arrival": "KWI",
+        "flight_iata": "KU394"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "flydubai",
+        "departure": "KTM",
+        "arrival": "DXB",
+        "flight_iata": "FZ574"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Emirates",
+        "departure": "KTM",
+        "arrival": "DXB",
+        "flight_iata": "EK2154"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Thai Airways",
+        "departure": "KTM",
+        "arrival": "BKK",
+        "flight_iata": "TG310"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Avia Traffic",
+        "departure": "KJA",
+        "arrival": "BSZ",
+        "flight_iata": "YK744"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Central Airlines",
+        "departure": "KIX",
+        "arrival": "YNT",
+        "flight_iata": "I98872"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Air Central",
+        "departure": "KIX",
+        "arrival": "NGB",
+        "flight_iata": "GI4116"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "China Postal Airlines",
+        "departure": "KIX",
+        "arrival": "CSX",
+        "flight_iata": "CF298"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Shandong Airlines",
+        "departure": "KIX",
+        "arrival": "XMN",
+        "flight_iata": "SC2422"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "China Postal Airlines",
+        "departure": "KIX",
+        "arrival": "TNA",
+        "flight_iata": "CF260"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Shandong Airlines",
+        "departure": "KIX",
+        "arrival": "TNA",
+        "flight_iata": "SC2500"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Shandong Airlines",
+        "departure": "KIX",
+        "arrival": "NKG",
+        "flight_iata": "SC2470"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "China Postal Airlines",
+        "departure": "KIX",
+        "arrival": "SJW",
+        "flight_iata": "CF218"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Shandong Airlines",
+        "departure": "KIX",
+        "arrival": "TAO",
+        "flight_iata": "SC2434"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "SF Airlines",
+        "departure": "KIX",
+        "arrival": "CSX",
+        "flight_iata": "O3254"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "airblue",
+        "departure": "ISB",
+        "arrival": "DXB",
+        "flight_iata": "PA210"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Juneyao Air",
+        "departure": "PVG",
+        "arrival": "ICN",
+        "flight_iata": "HO3110"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "VietJet Air",
+        "departure": "ICN",
+        "arrival": "PQC",
+        "flight_iata": "VJ979"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "YTO Cargo Airlines",
+        "departure": "ICN",
+        "arrival": "WNZ",
+        "flight_iata": "YG9052"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Ural Airlines",
+        "departure": "IKT",
+        "arrival": "VVO",
+        "flight_iata": "U6365"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Malaysia Airlines",
+        "departure": "HYD",
+        "arrival": "KUL",
+        "flight_iata": "MH199"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Japan Airlines",
+        "departure": "HYD",
+        "arrival": "KUL",
+        "flight_iata": "JL7948"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Blue Dart Aviation",
+        "departure": "HYD",
+        "arrival": "BOM",
+        "flight_iata": "BZ154"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "IndiGo",
+        "departure": "HYD",
+        "arrival": "MCT",
+        "flight_iata": "6E1273"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "S7 Airlines",
+        "departure": "HTA",
+        "arrival": "IKT",
+        "flight_iata": "S76426"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Air New Zealand",
+        "departure": "HLZ",
+        "arrival": "CHC",
+        "flight_iata": "NZ5629"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Singapore Airlines",
+        "departure": "HLZ",
+        "arrival": "CHC",
+        "flight_iata": "SQ4510"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Hong Kong Airlines",
+        "departure": "HKG",
+        "arrival": "KIX",
+        "flight_iata": "HX616"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Cathay Pacific",
+        "departure": "HKG",
+        "arrival": "YYZ",
+        "flight_iata": "CX820"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Saudia",
+        "departure": "HKG",
+        "arrival": "RUH",
+        "flight_iata": "SV983"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "HK express",
+        "departure": "HKG",
+        "arrival": "PUS",
+        "flight_iata": "UO604"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Hong Kong Airlines",
+        "departure": "HKG",
+        "arrival": "NRT",
+        "flight_iata": "HX606"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "HK express",
+        "departure": "HKG",
+        "arrival": "CJU",
+        "flight_iata": "UO698"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "All Nippon Airways",
+        "departure": "HKG",
+        "arrival": "NRT",
+        "flight_iata": "NH8512"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Cathay Pacific",
+        "departure": "HKG",
+        "arrival": "JFK",
+        "flight_iata": "CX844"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "HK express",
+        "departure": "HKG",
+        "arrival": "TAE",
+        "flight_iata": "UO656"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "QantasLink",
+        "departure": "HBA",
+        "arrival": "SYD",
+        "flight_iata": null
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "LATAM Airlines",
+        "departure": "HBA",
+        "arrival": "SYD",
+        "flight_iata": "LA4871"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Fiji Airways",
+        "departure": "HBA",
+        "arrival": "SYD",
+        "flight_iata": "FJ5255"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "China Eastern Airlines",
+        "departure": "HBA",
+        "arrival": "SYD",
+        "flight_iata": "MU4111"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Fiji Airways",
+        "departure": "HBA",
+        "arrival": "SYD",
+        "flight_iata": "FJ5279"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Emirates",
+        "departure": "HBA",
+        "arrival": "SYD",
+        "flight_iata": "EK5185"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Air New Zealand",
+        "departure": "HBA",
+        "arrival": "SYD",
+        "flight_iata": "NZ7365"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Virgin Australia",
+        "departure": "HBA",
+        "arrival": "MEL",
+        "flight_iata": "VA1313"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "United Airlines",
+        "departure": "HBA",
+        "arrival": "MEL",
+        "flight_iata": "UA7394"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Singapore Airlines",
+        "departure": "HBA",
+        "arrival": "MEL",
+        "flight_iata": "SQ6579"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Qatar Airways",
+        "departure": "HBA",
+        "arrival": "MEL",
+        "flight_iata": "QR8515"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "China Southern Airlines",
+        "departure": "HBA",
+        "arrival": "MEL",
+        "flight_iata": "CZ1035"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "QantasLink",
+        "departure": "HBA",
+        "arrival": "MEL",
+        "flight_iata": null
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "China Southern Airlines",
+        "departure": "HBA",
+        "arrival": "MEL",
+        "flight_iata": "CZ7570"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "China Eastern Airlines",
+        "departure": "HBA",
+        "arrival": "MEL",
+        "flight_iata": "MU4105"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Cathay Pacific",
+        "departure": "HBA",
+        "arrival": "MEL",
+        "flight_iata": "CX9116"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Air New Zealand",
+        "departure": "HBA",
+        "arrival": "MEL",
+        "flight_iata": "NZ7667"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Emirates",
+        "departure": "HBA",
+        "arrival": "MEL",
+        "flight_iata": "EK5564"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Cebu Pacific",
+        "departure": "HAN",
+        "arrival": "MNL",
+        "flight_iata": "5J747"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Philippine Airlines",
+        "departure": "HAN",
+        "arrival": "MNL",
+        "flight_iata": "PR596"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "VietJet Air",
+        "departure": "HAN",
+        "arrival": "ICN",
+        "flight_iata": "VJ960"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "VietJet Air",
+        "departure": "HAN",
+        "arrival": "NGO",
+        "flight_iata": "VJ920"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Emirates",
+        "departure": "HAN",
+        "arrival": "DXB",
+        "flight_iata": "EK395"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Vietnam Airlines",
+        "departure": "HAN",
+        "arrival": "FUK",
+        "flight_iata": "VN356"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "VietJet Air",
+        "departure": "HAN",
+        "arrival": "KIX",
+        "flight_iata": "VJ938"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Juneyao Air",
+        "departure": "HAN",
+        "arrival": "PVG",
+        "flight_iata": "HO1330"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Vietnam Airlines",
+        "departure": "HAN",
+        "arrival": "PUS",
+        "flight_iata": "VN428"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Hainan Airlines",
+        "departure": "HAK",
+        "arrival": "AKL",
+        "flight_iata": "HU797"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Hainan Airlines",
+        "departure": "HAK",
+        "arrival": "SVO",
+        "flight_iata": "HU765"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "SF Airlines",
+        "departure": "HGH",
+        "arrival": "CGO",
+        "flight_iata": "O37233"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "SF Airlines",
+        "departure": "HGH",
+        "arrival": "NKG",
+        "flight_iata": "O37117"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "SF Airlines",
+        "departure": "HGH",
+        "arrival": "JJN",
+        "flight_iata": "O37068"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "SF Airlines",
+        "departure": "HGH",
+        "arrival": "JJN",
+        "flight_iata": "O37064"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "JDL Airlines",
+        "departure": "HGH",
+        "arrival": "SZX",
+        "flight_iata": "JG2679"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "China Postal Airlines",
+        "departure": "HGH",
+        "arrival": "PKX",
+        "flight_iata": "CF9085"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Air Central",
+        "departure": "HFE",
+        "arrival": "CGO",
+        "flight_iata": "GI4114"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "IndiGo",
+        "departure": "GOI",
+        "arrival": "BOM",
+        "flight_iata": "6E6156"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Virgin Atlantic",
+        "departure": "GOI",
+        "arrival": "BOM",
+        "flight_iata": "VS9009"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Malaysia Airlines",
+        "departure": "GOI",
+        "arrival": "BOM",
+        "flight_iata": "MH5282"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "British Airways",
+        "departure": "GOI",
+        "arrival": "BOM",
+        "flight_iata": "BA8770"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Jin Air",
+        "departure": "GUM",
+        "arrival": "ICN",
+        "flight_iata": "LJ918"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Etihad Airways",
+        "departure": "CHC",
+        "arrival": "DUD",
+        "flight_iata": "EY4495"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "CareFlight",
+        "departure": "BRT",
+        "arrival": "DRW",
+        "flight_iata": null
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "CareFlight",
+        "departure": "GTE",
+        "arrival": "DRW",
+        "flight_iata": null
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "empty",
+        "departure": "BRK",
+        "arrival": "DBO",
+        "flight_iata": null
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Air India",
+        "departure": "DEL",
+        "arrival": "BKK",
+        "flight_iata": "AI2336"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Air India",
+        "departure": "DEL",
+        "arrival": "CMB",
+        "flight_iata": "AI277"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "IndiGo",
+        "departure": "DEL",
+        "arrival": "AMD",
+        "flight_iata": "6E6261"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Air India",
+        "departure": "DEL",
+        "arrival": "BLR",
+        "flight_iata": "AI2757"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "VietJet Air",
+        "departure": "DEL",
+        "arrival": "HAN",
+        "flight_iata": "VJ972"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Air India",
+        "departure": "DEL",
+        "arrival": "ICN",
+        "flight_iata": "AI312"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "T'way Air",
+        "departure": "DAD",
+        "arrival": "TAE",
+        "flight_iata": "TW30"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "T'way Air",
+        "departure": "DAD",
+        "arrival": "ICN",
+        "flight_iata": "TW14"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Vietnam Airlines",
+        "departure": "DAD",
+        "arrival": "KIX",
+        "flight_iata": "VN336"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "All Nippon Airways",
+        "departure": "DAD",
+        "arrival": "KIX",
+        "flight_iata": "NH9724"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "empty",
+        "departure": "DAC",
+        "arrival": "CZX",
+        "flight_iata": null
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Saudia",
+        "departure": "DAC",
+        "arrival": "RUH",
+        "flight_iata": "SV805"
+    },
+    {
+        "flight_date": "2026-10-07",
+        "flight_status": "scheduled",
+        "airline_name": "Alitalia",
+        "departure": "DAC",
+        "arrival": "RUH",
+        "flight_iata": "AZ5218"
+    }
+]
